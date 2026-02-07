@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "busName": "KPN Travels",
+    "source": "Chennai",
+    "destination": "Bangalore",
+    "departureTime": "06:00 AM",
+    "arrivalTime": "12:00 PM",
+    "price": 750,
+    "seatsAvailable": 12,
+    "busType": "AC Sleeper"
+  },
+  {
+    "id": 2,
+    "busName": "Orange Tours",
+    "source": "Chennai",
+    "destination": "Bangalore",
+    "departureTime": "09:30 PM",
+    "arrivalTime": "05:00 AM",
+    "price": 900,
+    "seatsAvailable": 5,
+    "busType": "AC Seater"
+  },
+  {
+    "id": 3,
+    "busName": "SRM Travels",
+    "source": "Chennai",
+    "destination": "Hyderabad",
+    "departureTime": "08:00 PM",
+    "arrivalTime": "06:00 AM",
+    "price": 1100,
+    "seatsAvailable": 0,
+    "busType": "AC Sleeper"
+  },
+  {
+    "id": 4,
+    "busName": "VRL Travels",
+    "source": "Bangalore",
+    "destination": "Chennai",
+    "departureTime": "07:00 AM",
+    "arrivalTime": "01:00 PM",
+    "price": 800,
+    "seatsAvailable": 9,
+    "busType": "Non-AC Seater"
+  },
+  {
+    "id": 5,
+    "busName": "SRS Travels",
+    "source": "Hyderabad",
+    "destination": "Chennai",
+    "departureTime": "05:30 PM",
+    "arrivalTime": "04:30 AM",
+    "price": 950,
+    "seatsAvailable": 7,
+    "busType": "AC Sleeper"
+  },
+  {
+    "id": 6,
+    "busName": "Kesineni Travels",
+    "source": "Bangalore",
+    "destination": "Hyderabad",
+    "departureTime": "10:00 PM",
+    "arrivalTime": "06:30 AM",
+    "price": 1200,
+    "seatsAvailable": 4,
+    "busType": "AC Sleeper"
+  }
+]

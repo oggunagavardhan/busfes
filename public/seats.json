@@ -1,0 +1,13 @@
+{
+  "lowerDeck": [
+    { "id": "L1", "type": "sleeper", "price": 1399, "gender": null, "booked": false },
+    { "id": "L2", "type": "seater", "price": 699, "gender": "female", "booked": false },
+    { "id": "L3", "type": "seater", "price": 699, "gender": null, "booked": true },
+    { "id": "L4", "type": "seater", "price": 699, "gender": null, "booked": false }
+  ],
+  "upperDeck": [
+    { "id": "U1", "type": "sleeper", "price": 1299, "gender": null, "booked": false },
+    { "id": "U2", "type": "sleeper", "price": 1199, "gender": "male", "booked": false },
+    { "id": "U3", "type": "sleeper", "price": 1199, "gender": null, "booked": true }
+  ]
+}
